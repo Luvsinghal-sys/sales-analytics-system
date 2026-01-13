@@ -1,2 +1,19 @@
-# sales-analytics-system
-having answers of module 3
+# Sales Analytics System
+
+## Project Overview
+A Python-based system that processes sales data, integrates with the DummyJSON API for product enrichment, and generates comprehensive business reports.
+
+## Structure
+- `data/`: Contains raw and processed sales logs.
+- `utils/`: Helper modules for file handling, API calls, and data processing.
+- `output/`: Generated text reports.
+- `main.py`: The entry point for the application.
+
+## How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the system:
+   python main.py
+
+3. Follow the on-screen prompts to filter data by region.
