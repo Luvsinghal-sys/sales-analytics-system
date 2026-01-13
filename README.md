@@ -16,4 +16,6 @@ A Python-based system that processes sales data, integrates with the DummyJSON A
 2. Run the system:
    python main.py
 
+
 3. Follow the on-screen prompts to filter data by region.
+sales-analytics-system/ ├── README.md ├── main.py ├── utils/ │ ├── file_handler.py │ ├── data_processor.py │ └── api_handler.py ├── data/ │ └── sales_data.txt ├── output/ └── requirements.txt
