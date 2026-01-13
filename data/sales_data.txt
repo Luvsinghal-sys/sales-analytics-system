@@ -1,0 +1,11 @@
+TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region
+T001|2024-12-01|P101|Laptop|2|45000.0|C001|North
+T002|2024-12-01|P102|Mouse, Wireless|5|500.0|C002|South
+T003|2024-12-02|P103|Keyboard|3|1500.0|C003|East
+T004|2024-12-02|P104|Monitor|1|12000.0|C004|West
+T005|2024-12-03|P101|Laptop|1|45000.0|C005|North
+T006|2024-12-03|P105|Headphones|10|2000.0|C006|South
+T007|2024-12-04|P102|Mouse, Wireless|2|500.0|C007|East
+T008|2024-12-04|P106|Webcam|4|3000.0|C008|West
+T009|2024-12-05|P103|Keyboard|1|1500.0|C009|North
+T010|2024-12-05|P101|Laptop|3|45000.0|C010|South
